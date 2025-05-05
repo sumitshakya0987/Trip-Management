@@ -1,0 +1,9 @@
+ [
+    {
+      "name": "Sam",
+      "hotel": "Deluxe Room",
+      "checkIn": "2025-06-01",
+      "checkOut": "2025-06-05",
+      "status": "Confirmed"
+    }
+  ]

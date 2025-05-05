@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Ocean View Room", "type": "suite", "price": 250, "location": "Beach", "reviews": 4.5 },
+    { "id": 2, "name": "Mountain Room", "type": "double", "price": 180, "location": "Hilltop", "reviews": 4.0 },
+    { "id": 3, "name": "City Lights Room", "type": "single", "price": 120, "location": "Downtown", "reviews": 3.8 },
+    { "id": 4, "name": "Luxury Suite", "type": "suite", "price": 320, "location": "Beach", "reviews": 4.9 },
+    { "id": 5, "name": "Economy Room", "type": "single", "price": 90, "location": "Suburbs", "reviews": 3.5 },
+    { "id": 1, "name": "Ocean View Room", "type": "suite", "price": 250, "location": "India", "reviews": 4.5 },
+    { "id": 2, "name": "Mountain Room", "type": "double", "price": 180, "location": "Delhi", "reviews": 4.0 },
+    { "id": 3, "name": "City Lights Room", "type": "single", "price": 120, "location": "Delhi", "reviews": 3.8 },
+    { "id": 4, "name": "Luxury Suite", "type": "suite", "price": 320, "location": "Noida", "reviews": 4.9 },
+    { "id": 5, "name": "Economy Room", "type": "single", "price": 90, "location": "Noida", "reviews": 3.5 }
+  ]
